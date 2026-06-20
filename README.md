@@ -77,7 +77,7 @@ Total cost = ₹1198
 
 ## Application Screenshot
 
-![AI Shop Assistant](screenshot.png)
+![AI Shop Assistant](shop_assistant-demo.png)
 
 ## Installation
 
