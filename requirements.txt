@@ -1,0 +1,5 @@
+pip show gradio
+pip show groq
+pip show python-dotenv
+pip show langchain
+pip show langchain-groq
